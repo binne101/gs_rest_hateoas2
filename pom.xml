@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>nl.pdptst</groupId>
-	<artifactId>gs_rest_hateoas</artifactId>
+	<artifactId>gs_rest_hateoas2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>rest_hateoas</name>
 	<description>Demo project for Spring Boot</description>
